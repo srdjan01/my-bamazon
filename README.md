@@ -22,6 +22,8 @@
 
 4. Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
 
+![10](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image10.png?raw=true)
+
 5. Then create a Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
 - - -
@@ -40,7 +42,7 @@
 7. Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
    * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
-image
+![2](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image2.png?raw=true)
 
 
 - - -
@@ -48,9 +50,9 @@ image
 8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
-image 
+![3](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image3.png?raw=true)
 
-image 
+![4](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image4.png?raw=true)
 
 
 - - -
@@ -78,7 +80,7 @@ image
 - - -
 
   * If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
-image
+![5](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image5.png?raw=true)
   
 
 - - -

@@ -116,4 +116,4 @@ image
    
 ## Copyright
 
-Coding Boot Camp (C) 2016. All Rights Reserved.
+Srdjan Markovich (C) 2017. All Rights Reserved.

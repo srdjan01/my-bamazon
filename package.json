@@ -1,0 +1,27 @@
+{
+  "name": "my-bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srdjan01/my-bamazon.git"
+  },
+  "author": "Srdjan Markovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srdjan01/my-bamazon/issues"
+  },
+  "homepage": "https://github.com/srdjan01/my-bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0",
+    "requirer": "0.0.4",
+    "tables": "0.0.5"
+  }
+}

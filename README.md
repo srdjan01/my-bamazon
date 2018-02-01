@@ -24,7 +24,7 @@
 
 
 
-![Database Image](./my-bamazon/images/database_products.PNG)
+![Database Image](/images/database_products.PNG)
 
 
 

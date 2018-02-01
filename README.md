@@ -24,7 +24,7 @@
 
 
 
-![Database Image](https://github.com/srdjan01/my-bamazon/blob/master/images/database_products.png)
+![Database Image](./my-bamazon/images/database_products.PNG)
 
 
 

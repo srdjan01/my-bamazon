@@ -86,25 +86,16 @@ image
 image
   
 - - -
-
-  * EXTRA: I added an extra feature that `creates an Inventory Log` whenever inventory is added to the product list
-image
  
 - - -
 
-  * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
+  * If a manager selects `Add New Product`, it will allow to add a completely new product to the store.
 image
   
 
 - - -
 
 
-
-   * Hint: You may need to look into aliases in MySQL.
-
-   * Hint: You may need to look into GROUP BYs.
-
-   * Hint: You may need to look into JOINS.
 
    
 ## Copyright

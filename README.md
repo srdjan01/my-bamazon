@@ -22,7 +22,11 @@
 
 4. Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
 
-![10](https://github.com/srdjan01/my-bamazon/master/my-bamazon/images/database_products.png?raw=true)
+
+
+![Database Image](https://github.com/srdjan01/my-bamazon/blob/master/images/database_products.png)
+
+
 
 
 5. Then create a Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.

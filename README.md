@@ -80,12 +80,11 @@
 image
  e)
 
-- - -
+
 
   * If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
 image
   
-- - -
  
 
 

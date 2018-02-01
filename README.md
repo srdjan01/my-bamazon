@@ -87,7 +87,7 @@ image
   
 - - -
  
-- - -
+
 
   * If a manager selects `Add New Product`, it will allow to add a completely new product to the store.
 image
@@ -95,9 +95,11 @@ image
 
 - - -
 
-
-
+- - -
    
 ## Copyright
 
 Srdjan Markovich (C) 2017. All Rights Reserved.
+
+- - -
+- - -

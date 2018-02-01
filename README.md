@@ -50,15 +50,7 @@
    * Once the update goes through, show the customer the total cost of their purchase.
 ![Database Image](/images/image3.PNG)
 
-![Database Image](/images/image5.PNG)
-
-
 - - -
-
-
-
-
-
 - - -
 
 ### Challenge #2: Manager View (Next Level)
@@ -78,7 +70,8 @@
 - - -
 
   * If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
-![5](https://github.com/srdjan01/my-bamazon/blob/master/my-bamazon/images/image5.png?raw=true)
+
+![Database Image](/images/image5.PNG)
   
 
 - - -
